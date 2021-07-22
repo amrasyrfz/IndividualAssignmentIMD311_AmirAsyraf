@@ -1,0 +1,18 @@
+body 
+	{	
+		background-image: url('samurai.jpg'); 
+	}
+
+a:link
+	{
+		color:pink;
+		text-decoration: none;
+		padding: 35px;
+	}
+
+a:hover
+	{
+		color:red;
+		background-color: pale red;
+		text-decoration: underline;
+	}
